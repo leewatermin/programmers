@@ -4,4 +4,4 @@
 
 |section|category|problem|my answer|
 |---|---|---|---|
-|algorithm_practice_kit|-|-|-|
+|algorithm_practice_kit|hash|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/hash_1.py)|
