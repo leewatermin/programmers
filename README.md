@@ -1,7 +1,7 @@
 ## programmers
 프로그래머스(programmers.co.kr) 연습문제를 풀어보고 있습니다.. 지나가세요..
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+currently dealing with... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 
 |date|section|category|problem|my answer|memo|
 |---|---|---|---|---|---|
@@ -9,12 +9,16 @@
 |2021.12.31|algorithm_practice_kit|sort|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/sort_1.py)||
 |2022.01.01|algorithm_practice_kit|bruteforce|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/bruteforce_1.py)||
 |2022.01.02|algorithm_practice_kit|greedy|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/greedy_1.py)||
-|2022.01.03|algorithm_practice_kit|hash|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/hash_2.py)|해시 개념 사용 사용해서 다시 풀어야겠다. 내재 sorted, sort function 어떻게 돌아가는지 확인하고..|
+|2022.01.03|algorithm_practice_kit|hash|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/hash_2.py)|해시 개념 사용 사용해서 다시 풀기. 내재 sorted, sort function 어떻게 돌아가는지 확인하고..|
 |2022.01.04|algorithm_practice_kit|stack, queue|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/stack,queue_1.py)||
 |2022.01.05|algorithm_practice_kit|hash|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/hash_2.py)||
 |2022.01.06|algorithm_practice_kit|stack, queue|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/stack,queue_2.py)||
 |2022.01.07|algorithm_practice_kit|bruteforce|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/bruteforce_3.py)|.. 어거지 코드 극혐|
+|2022.01.08|algorithm_practice_kit|sort|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/sort_3.py)||
+|2022.01.09|algorithm_practice_kit|stack, queue|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/stack,queue_4.py)||
+|2022.01.10|algorithm_practice_kit|heap|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/leewatermin/programmers/blob/main/coding%20test%20kit/python3/heap_1.py)||
 
 ## note..
-(21.12.31) 꾸준히 하는 게 제일 중요하지.. 퇴근하고 쉬운 거 한 문제씩이라도 풀어.. 2022년의 나 화이팅🤍
-(22.01.07) 이진트리 다시 공부하자.. 그래도 아직 빼먹은 날은 없다..
+(21.12.31) 꾸준히 하는 게 제일 중요하지.. 퇴근하고 쉬운 거 한 문제씩이라도 풀어.. 2022년의 나 화이팅🤍   
+(22.01.07) 이진트리 다시 공부하자.. 그래도 아직 빼먹은 날은 없다..   
+(22.01.10) 이번 주말에는.. 코드 전체 리뷰 하기.. 블로그 글 쓰기.. 퇴근하고 문제푸는 건.. 너무 졸림..
